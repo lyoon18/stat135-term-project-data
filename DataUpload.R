@@ -1,0 +1,6 @@
+library(tidyverse)
+ds1 <- read_csv("data/DS1.csv")
+ds2 <- read_csv("data/DS2.csv")
+ds3 <- read_csv("data/DS3.csv")
+ds4 <- read_csv("data/DS4.csv")
+ds5 <- read_csv("data/DS5.csv")
